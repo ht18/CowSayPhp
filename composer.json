@@ -1,0 +1,18 @@
+{
+    "name": "tuil/cowsay-php",
+    "description": "cow say quest",
+    "autoload": {
+        "psr-4": {
+            "Tuil\\CowsayPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Herschel TUIL",
+            "email": "herschel.tuil@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
